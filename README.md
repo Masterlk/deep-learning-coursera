@@ -89,6 +89,4 @@ I screenshotted some important slide page and store them into GitHub issues. It 
 ## Milestones
 
   - **2017-08-17**: Finished the first-released 3 courses, YAY! 😈
-## Mytest
-  - **百度的地址**：[百度首页](https://www.baidu.com/)
   
